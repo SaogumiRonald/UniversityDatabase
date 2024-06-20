@@ -1,0 +1,7 @@
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\bin\Debug\CoworkingApp.exe.config
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\bin\Debug\CoworkingApp.exe
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\bin\Debug\CoworkingApp.pdb
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\obj\Debug\CoworkingApp.csproj.AssemblyReference.cache
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\obj\Debug\CoworkingApp.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\obj\Debug\CoworkingApp.exe
+D:\Рабочий стол\lab1\CoworkingApp\CoworkingApp\obj\Debug\CoworkingApp.pdb
